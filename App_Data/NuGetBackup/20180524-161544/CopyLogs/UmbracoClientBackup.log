@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy para Windows                              
+-------------------------------------------------------------------------------
+
+  Iniciado: quinta-feira, 24 de maio de 2018 16:15:54
+   Origem : C:\Users\Daione\source\repos\Teste\Teste\Umbraco_Client\
+     Dest : C:\Users\Daione\source\repos\Teste\Teste\App_Data\NuGetBackup\20180524-161544\Umbraco_Client\
+
+    Arquivos: *.*
+	    
+  Op‡äes: *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Users\Daione\source\repos\Teste\Teste\Umbraco_Client\
+
+------------------------------------------------------------------------------
+
+               Total   Copiada  IgnoradaIncompatibilidade     FALHA    Extras
+Diret¢rios:         1         0         1         0         0         0
+ Arquivos:         0         0         0         0         0         0
+    Bytes:         0         0         0         0         0         0
+N.§ de Vezes:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finalizado em: quinta-feira, 24 de maio de 2018 16:15:54
+

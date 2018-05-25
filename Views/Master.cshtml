@@ -1,0 +1,21 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+	Layout = null;
+}
+
+@* the fun starts here *@
+
+<!DOCTYPE html>
+ <html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>@Umbraco.Field("pageTitle", recursive: true)</title>
+    <meta name="keywords" content="@keywords">
+    <meta name="description" content="@Umbraco.Field("pageDescription", recursive: true)">
+    
+     <title>Document</title>
+ </head>
+ <body>
+     
+ </body>
+ </html>
